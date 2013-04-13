@@ -88,6 +88,6 @@ class MyFrame(wx.Frame):
 
 
 app=wx.App()
-frame= MyFrame(None, -1, 'Physics Problem Solver')
+frame= MyFrame(None, -1, 'Physics Problem Solver Extended Version')
 frame.Show()
 app.MainLoop()
